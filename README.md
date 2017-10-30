@@ -1,5 +1,5 @@
 # adb-wifi
-Script for to turn on and off wireless adb debugging from device (requires root)
+Script to turn on and off wireless adb debugging from android device (requires root)
 
 ## Usage
 * as root mount `/system/` as read-write and move the script to `/system/bin/`
